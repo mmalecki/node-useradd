@@ -1,7 +1,7 @@
 var events = require('events'),
     child_process = require('child_process'),
     test = require('tap').test,
-    useradd = require('../lib/useradd');
+    useradd = require('../');
 
 function mockSpawn(t, assertExec, assertArgs) {
   return function (name, args) {
