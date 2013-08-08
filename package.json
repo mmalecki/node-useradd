@@ -1,6 +1,6 @@
 {
   "name": "useradd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "main": "./lib/useradd",
   "repository": {
